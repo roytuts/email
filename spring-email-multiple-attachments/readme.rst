@@ -1,1 +1,1 @@
-You can go through the tutorial https://www.roytuts.com/send-email-with-multiple-attachments-via-spring/
+Please follow the tutorial https://roytuts.com/send-email-with-multiple-attachments-via-spring/
